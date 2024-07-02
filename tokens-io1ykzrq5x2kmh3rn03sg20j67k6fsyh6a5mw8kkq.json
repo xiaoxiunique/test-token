@@ -1,0 +1,22 @@
+{
+  "address": "io1ykzrq5x2kmh3rn03sg20j67k6fsyh6a5mw8kkq",
+  "name": "IoTeX Emerald Test",
+  "description": null,
+  "logo": null,
+  "symbol": "EMRDT",
+  "decimals": null,
+  "total_supply": null,
+  "transfer": "1",
+  "daily_transfer": "0",
+  "daily_transfer_amount": null,
+  "holders": 2,
+  "id": 308149227,
+  "custom_config": {},
+  "social_media": {},
+  "is_depin_token": false,
+  "is_official": false,
+  "daily_volume_usd": null,
+  "total_liquidity_usd": null,
+  "coingecko_id": null,
+  "markets": []
+}
